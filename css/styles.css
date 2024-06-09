@@ -450,6 +450,7 @@ img {
 .foot-media-menu {
   display: flex;
   gap: 16px;
+  list-style-type: none;
 }
 
 .foot-media-list {
