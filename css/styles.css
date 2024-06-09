@@ -295,6 +295,7 @@ img {
   display: flex;
   justify-content: center;
   gap: 24px;
+  list-style: none;
 }
 
 .section-third-media-icon {
