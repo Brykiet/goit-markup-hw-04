@@ -378,6 +378,8 @@ img {
   color: #434455;
 }
 .container-image {
+  position: relative;
+  overflow: hidden;
 }
 .image-p {
   top: 0;
