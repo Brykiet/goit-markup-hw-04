@@ -378,8 +378,6 @@ img {
   color: #434455;
 }
 .container-image {
-  transform: translatey(100%);
-  transition: transform 250ms ease-in-out;
 }
 .image-p {
   top: 0;
