@@ -313,11 +313,10 @@ img {
   justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.section-third-media-link:hover,
-.section-third-media-link:focus {
+.section-third-media-link:hover {
   background-color: #404bbf;
 }
-.section-third-media-link:focus:active {
+.section-third-media-link:focus {
   background-color: #404bbf;
 }
 .section-third-media-link:active {
