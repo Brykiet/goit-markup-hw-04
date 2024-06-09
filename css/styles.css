@@ -317,7 +317,7 @@ img {
 .section-third-media-link:focus {
   background-color: #404bbf;
 }
-.section-third-media-link:active {
+.section-third-media-link:focus {
   background-color: #404bbf;
 }
 
