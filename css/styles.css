@@ -465,6 +465,9 @@ img {
   align-items: center;
   justify-content: center;
 }
+.foot-media-menu-link-svg {
+  fill: #f4f4fd;
+}
 
 .foot-media-menu-link:hover,
 .foot-media-menu-link:focus {
