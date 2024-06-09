@@ -409,6 +409,9 @@ img {
   display: flex;
   align-items: baseline;
 }
+.foot-container2 {
+  margin-right: 120px;
+}
 
 .foot .logo {
   font-family: "Raleway", sans-serif;
