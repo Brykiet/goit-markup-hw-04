@@ -291,6 +291,17 @@ img {
   text-align: center;
 }
 
+.section-third-media {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.section-third-media-icon {
+  width: 40px;
+  height: 40px;
+}
+
 /* sekcja czwarta */
 .section-fourth {
   padding-top: 120px;
